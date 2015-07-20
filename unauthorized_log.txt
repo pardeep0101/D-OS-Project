@@ -1,0 +1,24 @@
+
+Ip#/127.0.0.1:61768#Port#6556#Channel#null#Timestamp#1431476681141#status# Inactive#
+
+Ip#/127.0.0.1:61802#Port#6556#Channel#null#Timestamp#1431477570503#status# Inactive#
+
+Ip#/127.0.0.1:61803#Port#6556#Channel#null#Timestamp#1431477580851#status# Inactive#
+
+Ip#/127.0.0.1:61808#Port#6558#Channel#null#Timestamp#1431477822348#status# Inactive#
+
+Ip#/127.0.0.1:61827#Port#6556#Channel#null#Timestamp#1431478135331#status# Inactive#
+
+Ip#/127.0.0.1:61839#Port#6556#Channel#null#Timestamp#1431478448608#status# Inactive#
+
+Ip#/127.0.0.1:61847#Port#6556#Channel#null#Timestamp#1431478524495#status# Inactive#
+
+Ip#/127.0.0.1:61848#Port#6556#Channel#null#Timestamp#1431478545071#status# Inactive#
+
+Ip#/127.0.0.1:62026#Port#6556#Channel#null#Timestamp#1431481618214#status# Inactive#
+
+Ip#/127.0.0.1:62050#Port#6556#Channel#null#Timestamp#1431482236405#status# Inactive#
+
+Ip#/127.0.0.1:62405#Port#6556#Channel#null#Timestamp#1431484190086#status# Inactive#
+
+Ip#/127.0.0.1:62490#Port#6556#Channel#null#Timestamp#1431484498665#status# Inactive#
